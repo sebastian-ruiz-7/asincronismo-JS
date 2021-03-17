@@ -1,0 +1,24 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo en JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-ruiz-7/asincronismo-JS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async/await"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastian-ruiz-7/asincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/sebastian-ruiz-7/asincronismo-JS#readme"
+}
