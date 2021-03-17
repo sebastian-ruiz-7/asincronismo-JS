@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sebastian-ruiz-7/asincronismo-JS/issues"
   },
-  "homepage": "https://github.com/sebastian-ruiz-7/asincronismo-JS#readme"
+  "homepage": "https://github.com/sebastian-ruiz-7/asincronismo-JS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
