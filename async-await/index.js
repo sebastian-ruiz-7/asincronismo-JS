@@ -15,6 +15,7 @@ const doSomething=async()=>{
 const anotherFunction= async()=>{
     try{
     const something=await doSomethingAsyn()
+    console.log(something)
     }catch{
         console.error(error)
     }
